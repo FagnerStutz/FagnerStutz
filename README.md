@@ -23,6 +23,3 @@
 
 "Só vive o propósito quem suporta o processo."
 
-![Snake animation](https://github.com/fagnerstutz/fagnerstutz/blob/output/github-contribution-grid-snake.svg)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=fagnerstutz&repo=fagnerstutz&theme=react)](https://github.com/fagnerstutz/fagnerstutz)
