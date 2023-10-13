@@ -1,7 +1,5 @@
-### Olá! Eu sou o Fagner Stutz 👋
+# Olá! Eu sou o Fagner Stutz 👋
 
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fagner-stutz-7a4255263/)
 
 ![Fagner GitHub stats](https://github-readme-stats.vercel.app/api?username=FagnerStutz&show_icons=true&theme=radical)
 
@@ -9,15 +7,18 @@
 ## Tecnologias que eu uso
 
 <div style="display: inline_blok"><br/>
-  <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img align="center" alt="html" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" alt="html" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img align="center" alt="html" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img align="center" alt="HTML" height="40" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="40" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Python" height="40" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div><br/>
 
-Só vive o propósito quem suporta o processo.
+![Snake animation](https://github.com/fagnerstutz/fagnerstutz/blob/output/github-contribution-grid-snake.svg)
 
 ## Contatos:
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]() 
-(21) 965980711
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](maito:fagnerstutz@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fagner-stutz-7a4255263/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://shre.ink/UdXi)
+</br></br>
+"Só vive o propósito quem suporta o processo."
