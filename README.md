@@ -13,7 +13,6 @@
   <img align="center" alt="Python" height="40" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div><br/>
 
-![Snake animation](https://github.com/fagnerstutz/fagnerstutz/blob/output/github-contribution-grid-snake.svg)
 
 ## Contatos:
 
@@ -21,4 +20,5 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fagner-stutz-7a4255263/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://shre.ink/UdXi)
 </br></br>
+
 "Só vive o propósito quem suporta o processo."
