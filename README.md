@@ -36,14 +36,14 @@
 
 <hr>
 
-<!--
+
 <div align="center">
   <picture align="center">
     <source media="(prefers-color-scheme: dark)" alt="snake eating my contributions" srcset="https://raw.githubusercontent.com/FagnerStutz/FagnerStutz/output/github-contribution-grid-snake-dark.svg">
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/FagnerStutz/FagnerStutz/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
--->
+
 
 <hr>
 <div align="center">
