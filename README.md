@@ -21,12 +21,12 @@
      
 <h3>Estou estudando no momento:</h3>
  
-   [![My Skills](https://skillicons.dev/icons?i=python,react,nodejs)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=react,nodejs)](https://skillicons.dev)
 <hr>
 
 <h3>Ferramentas que uso:</h3>
  
-   [![My Skills](https://skillicons.dev/icons?i=figma,postman,github,vscode)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=figma,postman,github,bootstrap,vscode)](https://skillicons.dev)
 <hr>
 
 <div align="center"> 
