@@ -36,11 +36,11 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   
-  <a href="https://www.https://www.linkedin.com/in/fagner-stutz-7a4255263/" target="_blank">
+  <a href="https://www.linkedin.com/in/fagner-stutz-7a4255263/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank">
   </a> 
   
-  <a href="" target="_blank">
+  <a href="https://portfolio-react-weld.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div><hr>
