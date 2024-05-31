@@ -26,7 +26,7 @@
 
 <h3>Ferramentas que uso:</h3>
  
-   [![My Skills](https://skillicons.dev/icons?i=figma,postman,github,bootstrap,vscode)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=figma,github,bootstrap,vscode)](https://skillicons.dev)
 <hr>
 
 <div align="center"> 
