@@ -40,7 +40,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30" target="_blank">
   </a> 
   
-  <a href="https://portfolio-react-weld.vercel.app/" target="_blank">
+  <a href="https://fagnerstutz.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div><hr>
