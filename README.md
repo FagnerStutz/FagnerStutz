@@ -16,17 +16,17 @@
 
   <h3>Tenho utilizado em meus projetos:</h3>
  
-   [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs)](https://skillicons.dev)
 <hr>
      
 <h3>Estou estudando no momento:</h3>
  
-   [![My Skills](https://skillicons.dev/icons?i=react,nodejs)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=nextjs,typescript)](https://skillicons.dev)
 <hr>
 
 <h3>Ferramentas que uso:</h3>
  
-   [![My Skills](https://skillicons.dev/icons?i=figma,github,bootstrap,vscode)](https://skillicons.dev)
+   [![My Skills](https://skillicons.dev/icons?i=figma,github,bootstrap,vscode)](https://skillicons.dev) <p>Panda CSS, Park-Ui</p>
 <hr>
 
 <div align="center"> 
@@ -37,7 +37,7 @@
   </a>
   
   <a href="https://www.linkedin.com/in/fagner-stutz-7a4255263/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30" target="_blank">
   </a> 
   
   <a href="https://portfolio-react-weld.vercel.app/" target="_blank">
